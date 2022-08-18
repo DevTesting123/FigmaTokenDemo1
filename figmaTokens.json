@@ -1,0 +1,22 @@
+{
+  "global": {
+    "view_Bg_Color": {
+      "value": "#7bceec",
+      "type": "color"
+    },
+    "ovel_FillColor": {
+      "value": "#f88989",
+      "type": "color"
+    },
+    "cornor_Red": {
+      "value": "60",
+      "type": "borderRadius"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
