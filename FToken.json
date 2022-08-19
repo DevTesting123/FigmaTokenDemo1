@@ -1,0 +1,27 @@
+{
+  "global": {
+    "bg_Color": {
+      "value": "rgba(231,52,154,0.06)",
+      "type": "color"
+    },
+    "nav_BgColor": {
+      "value": "#e75555",
+      "type": "color"
+    },
+    "container_Bg_Color": {
+      "value": "#a38080",
+      "type": "color"
+    },
+    "GreenTest": {
+      "value": "#273229",
+      "type": "color",
+      "description": "GreenTest"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
