@@ -16,6 +16,10 @@
       "value": "#273229",
       "type": "color",
       "description": "GreenTest"
+    },
+    "NewClr": {
+      "value": "#cf1414",
+      "type": "color"
     }
   },
   "$themes": [],
